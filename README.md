@@ -7,7 +7,7 @@ I am Arihant Tiwari, a Third Year student at Indian Institute of Science Educati
 * Compton Thick Objects, Pulsars, Magnetars and Quasars
 * GRBs and Jets
 
-- 📫 How to reach me: arihantt2@gmail.com
+- 📫 How to reach me: arihant3601@gmail.com
 
 <!---
 Arismos/Arismos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
